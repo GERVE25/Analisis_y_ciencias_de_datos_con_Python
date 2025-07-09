@@ -3,10 +3,10 @@ Uso de ciencia de datos con Python para analizar, visualizar e interpretar infor
 
 # Fundamentos Técnicos
   • Manipulación de datos: \
-    o Usar Pandas para cargar, limpiar y organizar datos.
-    o Aplicar filtros y agrupaciones para identificar patrones.
-  • Visualización:
-    o Crear gráficos (histogramas, mapas de calor).
+    o Usar Pandas para cargar, limpiar y organizar datos.\
+    o Aplicar filtros y agrupaciones para identificar patrones.\
+  • Visualización:\
+    o Crear gráficos (histogramas, mapas de calor).\
 
 # Aplicación Pedagógica
   • Diseño de actividades:
