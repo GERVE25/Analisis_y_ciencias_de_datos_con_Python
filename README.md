@@ -2,7 +2,7 @@
 Uso de ciencia de datos con Python para analizar, visualizar e interpretar información. Trabajando con datos reales para fomentar el pensamiento crítico, crear actividades interactivas y comunicar resultados de forma clara y visual en un contexto educativo.
 
 # Fundamentos Técnicos
-  • Manipulación de datos: n/
+  • Manipulación de datos: n\
     o Usar Pandas para cargar, limpiar y organizar datos.
     o Aplicar filtros y agrupaciones para identificar patrones.
   • Visualización:
